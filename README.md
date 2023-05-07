@@ -1,5 +1,5 @@
-# Tribute Website
-This repository was created to comply with the claim requirements for the "Responsive Web Design Certification" certificate held by freecodecamp.org. Pada website yang berisikan tentang perjalanan kehidupan seseorang yang bernama Steve Jobs.
+# Landing Page Website
+This repository was created to comply with the claim requirements for the "Responsive Web Design Certification" certificate held by freecodecamp.org. Landing Pages featuring Keyboard products from the Logitech brand are made with HTML and Vanilla CSS.
 
 ## Tech
 
